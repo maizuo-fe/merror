@@ -1,6 +1,7 @@
 {
   "name": "merror",
   "version": "0.1.0",
+  "private": true,
   "description": "maizuo formal error for javascript",
   "main": "./src/index.js",
   "scripts": {
@@ -8,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@maizuo:yelo/js-merror.git"
+    "url": "git@github.com:maizuo-fe/merror.git"
   },
   "keywords": [
     "error"
